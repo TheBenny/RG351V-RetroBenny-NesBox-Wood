@@ -1,10 +1,7 @@
-theme:          NES BOX Theme designed by Travis Wilson (Super Retropie and Retro Gaming)
+theme:          NES BOX Theme designed by Travis Wilson (Super Retropie and Retro Gaming) 
+                Edited for RG351V and custom images added by RetroBenny
 
-facebook:		www.facebook.com/groups/superretropie
-
-twitter:		www.twitter.com/superretropie
-
-email:			superretropieretrogaming@gmail.com
+email:	bennythingdesign@gmail.com		
 
 version         1.8
 
