@@ -7,23 +7,6 @@ version         1.8
 
 ------------------------------------------------------------------------------------------
 
-License
-
-This theme is being actively developed, a great deal of work has been put into the theme and art so please do not use the graphics I have created in other projects.
-
-You are free to modify the theme for your personal use only - please do not share modified versions of this theme.
-
-Commercial distribution is prohibited
-
-------------------------------------------------------------------------------------------
-
-Travis Wilson / Super Retropie and Retro Gaming / made this theme. 
-
-This theme is not for use with any kind of loaded images. 
-
-This theme is not for use with anything Supreme Retro Gaming related.
-
-------------------------------------------------------------------------------------------
 
 Supported Systems and Custom Collections
 
